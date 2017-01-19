@@ -1,2 +1,2 @@
-# C-learning
-Github is of great fun that I would like to practice my programming skills here.
+# C Primer Plus fifth
+I store the excercise code of the book here.
